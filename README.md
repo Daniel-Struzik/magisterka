@@ -20,9 +20,9 @@ Spis treści:
   - `data_prep_purchase.ipynb` - przygotowanie danych
 * `Tygodniowa sprzedaż` - folder zawiera pliki, w których przygotowano cechy oznaczające tygodniową sprzedaż oraz średnią cenę produktów:
   - `weekly_sales_concat.ipynb` - połączenie danych
-  - `weekly_sales_data_prep.ipynb` - testowno przewidywanie liczbę sprzedanych produktów, ostatecznie wykorzystano przygotowany zbiór do dodanie cechy odpowiadającej za wielkość sprzedaży danego produktu w tygodniu w ostatecznym przewidywaniu zachowań klientów
+  - `weekly_sales_data_prep.ipynb` - testowano przewidywanie liczby sprzedanych produktów, ostatecznie wykorzystano przygotowany zbiór do dodania cechy odpowiadającej za wielkość sprzedaży danego produktu w tygodniu, użytej w ostatecznym przewidywaniu zachowań klientów
   
-Pewne pliki zostały przygotowane wcześniej (pliki `data_prep`) ze względu na duży rozmiar danychi ograniczenia sprzętowe.
+Liczba plików i ich struktura wynika z ograniczeń sprzętowych.
 
 ## Streszczenie pracy <a name="1"></a>
 
