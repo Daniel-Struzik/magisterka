@@ -1,6 +1,6 @@
 # Praca magisterska
 
-Repozyterium zawiera notatniki wykorzystane do napisania pracy magisterskiej: *,,Przewidywanie zachowań konsumentów w sklepach e-commerce z wykorzystaniem modeli uczenia maszynowego''*.
+Repozytorium zawiera notatniki wykorzystane do napisania pracy magisterskiej: ***,,Przewidywanie zachowań konsumentów w sklepach e-commerce z wykorzystaniem modeli uczenia maszynowego''***, obronionej 06.07.22 na ocenę 5.
 
 Spis treści:
 * [Lista plików](#0)
