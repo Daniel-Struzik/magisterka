@@ -8,8 +8,8 @@ Spis treści:
 
 ## Lista plików <a name="0"></a>
 
-* `mag_eda.ipynb` - eksploracja jednego ze zbiorów danych użytych w pracy,
-* `NMADwB_raport.ipynb` - raport opisujący pracę magisterską, przygotowany na zajęcia,
+* `mag_eda.ipynb` - eksploracja jednego ze zbiorów danych użytych w pracy
+* `NMADwB_raport.ipynb` - raport opisujący pracę magisterską, przygotowany na zajęcia
 * `Przewidywanie` - folder zawiera pliki, w których przygotowano przewidywanie zachowań klientów:
   - `cały_okres_przewidywanie_bez_segmentacji.ipynb` - przygotowanie i porównanie modeli służących do przewidywania zachowań klientów bez dodawania segmentów
   - `cały_okres_przewidywanie_z_segmentacja.ipynb` - przygotowanie i porównanie modeli służących do przewidywania zachowań klientów po dodaniu segmentów
