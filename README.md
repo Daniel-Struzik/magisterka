@@ -15,7 +15,7 @@ Spis treści:
   - `cały_okres_przewidywanie_z_segmentacja.ipynb` - przygotowanie i porównanie modeli służących do przewidywania zachowań klientów po dodaniu segmentów
   - `data_prep_cały_okres_przewidywanie_concat.ipynb` - przygotowanie danych
 * `Segmentacja` - folder zawiera pliki, w których przygotowano segmenty klientów:
-  - `cały_okre_rfm.ipynb` - przygotowanie cech do analizy RFM
+  - `cały_okres_rfm.ipynb` - przygotowanie cech do analizy RFM
   - `cały_okres_segmentacja.ipynb` - segmentacja klientów według cech stworzonych w analizie RFM
   - `data_prep_purchase.ipynb` - przygotowanie danych
 * `Tygodniowa sprzedaż` - folder zawiera pliki, w których przygotowano cechy oznaczające tygodniową sprzedaż oraz średnią cenę produktów:
